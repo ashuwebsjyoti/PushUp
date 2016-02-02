@@ -36,6 +36,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void TestUpload(){
-        int i=i+1;
+        int i=1+1;
+
+        int ii=2+2;
     }
 }
